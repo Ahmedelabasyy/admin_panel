@@ -17,12 +17,10 @@ function Sidebar() {
                                 Home
                             </li>
                         </Link>
-                        <Link to="/" className="link">
-                            <li className="sidebarListItem">
-                                <Timeline className="sidebarIcon"/>
-                                Analytics
-                            </li>
-                        </Link>
+                        <li className="sidebarListItem">
+                            <Timeline className="sidebarIcon"/>
+                            Analytics
+                        </li>
                         <Link to="/product/:prductid" className="link">
                             <li className="sidebarListItem">
                                 <TrendingUp className="sidebarIcon"/>
