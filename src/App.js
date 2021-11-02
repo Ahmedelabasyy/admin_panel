@@ -16,6 +16,7 @@ function App() {
       <Topbar />
       <div className="container">
         <Sidebar />
+        <Home />
         <Switch>
           <Route exact path="/">
             <Home />
