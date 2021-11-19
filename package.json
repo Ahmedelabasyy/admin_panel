@@ -2,7 +2,7 @@
   "name": "admin_panel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ahmedelabasyy.github.io/",
+  "homepage": "https://ahmedelabasyy.github.io/admin_panel",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/data-grid": "^4.0.0-alpha.37",

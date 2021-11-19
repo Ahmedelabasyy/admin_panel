@@ -10,7 +10,7 @@ const Home = () => {
     const[users, setUsers] = useState([]);
     
     useEffect(() => {
-        fetch('http://Ahmedelabasyy.github.io/admin_panel/users.json')
+        fetch('https://Ahmedelabasyy.github.io/admin_panel/users.json')
         .then(res => res.json())
         .then(data => setUsers(data));
     }, []);
