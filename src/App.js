@@ -17,7 +17,7 @@ function App() {
       <div className="container">
         <Sidebar />
         <Switch>
-          <Route exact path="/home">
+          <Route exact path="/">
             <Home />
           </Route>
           <Route path="/users">
