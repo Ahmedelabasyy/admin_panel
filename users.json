@@ -1,5 +1,4 @@
-{
-    "users": [
+   "users": [
         {
             "id": 1,
             "name": "Anna Keller",
@@ -31,4 +30,3 @@
             "job": "JavaScript Developer"
         }
     ]
-}
