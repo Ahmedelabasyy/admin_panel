@@ -1,7 +1,7 @@
 import { Visibility } from '@material-ui/icons';
 import './widgetSm.css';
 
-function WidgetLg({users}) {
+function WidgetSm({users}) {
     return (
         <div className="widgetSm">
             <span className="widgetSmTitle">New join users</span>
@@ -24,4 +24,4 @@ function WidgetLg({users}) {
     )
 }
 
-export default WidgetLg
+export default WidgetSm

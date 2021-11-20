@@ -12,7 +12,7 @@ import NewProduct from "./Pages/newProduct/NewProduct";
 
 function App() {
   return (
-    <Router className="App">
+    <Router className="App" basename={window.location.pathname || ''}>
       <Topbar />
       <div className="container">
         <Sidebar />

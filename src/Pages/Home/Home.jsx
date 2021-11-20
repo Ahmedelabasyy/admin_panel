@@ -14,7 +14,7 @@ const Home = () => {
         .then(res => res.json())
         .then(data => setUsers(data));
     }, []);
-    console.log(users.name);
+    console.log(users);
     return (
         <div className="home">
             <Featured />
