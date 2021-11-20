@@ -1,5 +1,4 @@
-{
-    "users": [
+ [
         {
             "id": 1,
             "name": "Anna Keller",
@@ -30,5 +29,4 @@
             "img": "https://www.byrdie.com/thmb/npX2mXaOOAB24BOaL2YnVK_0M48=/700x700/smart/filters:no_upscale()/cdn.cliqueinc.com__cache__posts__205575__japanese-anti-ageing-skincare-secrets-205575-1484109732-promo.700x0c-a27709916c1642afa21d112d5f1e1bd5.jpg",
             "job": "JavaScript Developer"
         }
-    ]
-}
+  ]
